@@ -1,1 +1,1 @@
-SELECT * FROM invoice WHERE 1 = 1;
+SELECT * FROM invoice WHERE 1 = 1 and 2 = 2;
