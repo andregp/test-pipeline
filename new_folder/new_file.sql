@@ -1,1 +1,1 @@
-select * from old_folder;
+select * from old_folder where 1 = 1;
