@@ -1,0 +1,1 @@
+select * from old_folder where 1 = 1;
